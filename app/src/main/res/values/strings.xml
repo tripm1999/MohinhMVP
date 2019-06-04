@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MohinhMVP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Chào mừng bạn</string>
+    <string name="title2">Chào mừng bạn2</string>
+    <string name="title3">Chào mừng bạn3</string>
+    <string name="description">Đến với ứng dụng tự học lập trình do trung tâm đào tạo tin học fpoly</string>
+    <string name="description2">Xin chào các bạn đã đến với loạt video hướng dẫn tạo màn hình giới thiệu cho ứng dụng. Sau khi các bạn xem hết loạt video này của tôi, các bạn có thể tạo màn hình giới thiệu cho ứng dụng của mình mà không cần dùng thư viện ngoài.</string>
+    <string name="description3">Hình như cái slider giống trên web cũng dùng thằng Fragment giống này đúng không bạn? Hi vọng bạn làm tiếp loạt videos về slider!</string>
+</resources>
